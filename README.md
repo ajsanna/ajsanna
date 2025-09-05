@@ -25,7 +25,7 @@
 >  
 > 💡 My passions include full stack software development, machine learning modeling, and AI integration into existing tech.  
 >  
-> 🎶 Outside the tech world, I love music, 1990s Porsche models, and my German Shepherd, Max. 🐕 🏎️  
+> 🎶 Outside the tech world, I love music, vintage Porsche models, and my German Shepherd, Max. 🐕 🏎️  
 >  
 > 👇 Check out my profile and see what I’ve worked on below!
 
@@ -106,8 +106,3 @@
 
 <hr style="border: none; height: 2px; background-color: #444;" />
 
-### ⚡ Fun Fact  
-<div align="center">
-I like to go to the 🍏 Apple Visitor Center in Cupertino and pretend I'm a Senior Software Engineer on my break.  
-<br>Spoiler: I'm not... yet. 😎
-</div>
