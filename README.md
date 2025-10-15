@@ -9,7 +9,6 @@
 
 <!-- 📫 Contact Links -->
 <p align="center">
-  <a href="https://ajsanna.github.io">🌐 Personal Site</a> •
   <a href="https://www.linkedin.com/in/alexander-sanna">💼 LinkedIn</a> •
   <a href="mailto:alexjsanna@gmail.com">📫 Send Me an Email!</a>
 </p>
